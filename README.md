@@ -6,8 +6,8 @@
 
 ### Feats
 
-- Rhythmancy Adept
-- Rhythmancy Initiate
+- [Rhythmancy Adept](feats/rhythmancy-adept.md)
+- [Rhythmancy Initiate](feats/rhythmancy-initiate.md)
 
 ## Credits
 
