@@ -4,6 +4,8 @@
 
 ## Resources
 
+If a resource was written for another 5e homebrew document, it will include a link to the source at the bottom of its page.
+
 ### Feats
 
 - [Rhythmancy Adept](feats/rhythmancy-adept.md)
