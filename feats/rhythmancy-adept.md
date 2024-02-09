@@ -13,4 +13,4 @@ Your extended practice in channeling rhythmantic energies has granted you additi
 
 ---
 
-_Source: [dnd5e-rhythmancy](https://github.com/mpanighetti/dnd5e-rhythmancy)_
+_Source: [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy)_
