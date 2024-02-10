@@ -1,6 +1,6 @@
 # dnd5e-feats
 
- A collection of homebrew 5e feats.
+ A collection of 5e homebrew feats.
 
 ## Resources
 
