@@ -5,7 +5,7 @@ _1st-Level Background Feat_
 - **Prerequisite:** None
 - **Repeatable:** No
 
-You have an innate connection to the plane of beasts. This connection could come from being born in or having long resided in the Beastlands, or could have been granted by magical means, such as divine intervention ofrom a deity or other entity that resides in the Beastlands. This connection grants you the following benefits:
+You have an innate connection to the plane of beasts. This connection could come from being born in or having long resided in the Beastlands, or could have been granted by magical means, such as magical intervention from a deity or other entity that resides in the Beastlands. This connection grants you the following benefits:
 
 - You either gain darkvision to a distance of 60 feet, or you gain advantage on Wisdom (Perception) checks that rely on smell or hearing (choose one when you select this feat).
 - You can use natural features, such as your bite or claws, to make unarmed strikes. When you hit with them, the strike deals 1d6 + your Strength modifier damage (choosing from bludgeoning, piercing, or slashing damage when you select this feat), instead of the normal unarmed strike damage.
