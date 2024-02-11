@@ -4,12 +4,12 @@
 
 ## Resources
 
-If a resource was written for another 5e homebrew document, it will include a link to the source at the bottom of its page.
-
 ### Feats
 
-- [Rhythmancy Adept](feats/rhythmancy-adept.md)
-- [Rhythmancy Initiate](feats/rhythmancy-initiate.md)
+| Level | Feat | Category | Prerequisite | Repeatable | Source |
+|:-:|:-|:-|:-|:-|:-|
+| 1st | [Rhythmancy Initiate](feats/rhythmancy-initiate.md) | | | no | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
+| 4th | [Rhythmancy Adept](feats/rhythmancy-adept.md) | | | no | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 
 ## Credits
 
@@ -23,7 +23,7 @@ This content was written to be compatible with Dungeons & Dragons 5th Edition.
 
 ## License
 
-_dnd5e-feats_ is © 2024 Mario Panighetti. Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
+_dnd5e-feats_ is © 2022 Mario Panighetti. Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
 
 Certain materials are included under fair use exemption of the U.S. Copyright Law and are restricted from further use. These materials, including references to game mechanics, are not approved or endorsed by Wizards of the Coast and do not constitute any license or agreement with Wizards of the Coast.
 
