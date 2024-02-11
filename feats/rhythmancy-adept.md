@@ -1,6 +1,6 @@
 # Rhythmancy Adept
 
-_4th-Level Feat_
+_4th-Level General Feat_
 
 - **Prerequisite:** Rhythmancy Initiate feat  
 - **Repeatable:** No

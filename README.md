@@ -8,8 +8,8 @@
 
 | Level | Feat | Category | Prerequisite | Repeatable | Source |
 |:-:|:-|:-|:-|:-|:-|
-| 1st | [Rhythmancy Initiate](feats/rhythmancy-initiate.md) | | | no | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
-| 4th | [Rhythmancy Adept](feats/rhythmancy-adept.md) | | | no | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
+| 1st | [Rhythmancy Initiate](feats/rhythmancy-initiate.md) | Background | | no | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
+| 4th | [Rhythmancy Adept](feats/rhythmancy-adept.md) | General | Rhythmancy Initiate feat | no | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 
 ## Credits
 

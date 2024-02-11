@@ -1,6 +1,6 @@
 # Rhythmancy Initiate
 
-_1st-Level Feat_
+_1st-Level Background Feat_
 
 - **Prerequisite:** None  
 - **Repeatable:** No
