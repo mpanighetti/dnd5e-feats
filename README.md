@@ -8,6 +8,7 @@
 
 | Level | Feat | Category | Prerequisite | Repeatable | Source |
 |:-:|:-|:-|:-|:-|:-|
+| 1st | [Beastlands Touched](feats/beastlands-touched.md) | Background | | no | |
 | 1st | [Rhythmancy Initiate](feats/rhythmancy-initiate.md) | Background | | no | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 | 4th | [Rhythmancy Adept](feats/rhythmancy-adept.md) | General | Rhythmancy Initiate feat | no | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 
