@@ -6,6 +6,8 @@
 
 ### Feats
 
+Feats are arranged by level prerequisite (listed separately from other prerequisites).
+
 | Level | Feat | Category | Prerequisite | Repeatable | Source |
 |:-:|:-|:-|:-|:-|:-|
 | 1st | [Beastlands Touched](feats/beastlands-touched.md) | Background | | no | |
