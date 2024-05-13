@@ -20,7 +20,12 @@ Feats are arranged by level prerequisite (listed separately from other prerequis
 
 #### Blessings
 
-- [Blessing of Foresight](supernatural-gifts/blessings/blessing-of-foresight)
+- [Blessing of Foresight](supernatural-gifts/blessings/blessing-of-foresight.md)
+
+#### Charms
+
+- [Charm of the Depths](supernatural-gifts/charms/charm-of-the-depths.md)
+- [Charm of Dragon Blood](supernatural-gifts/charms/charm-of-dragon-blood.md)
 
 ## Credits
 
@@ -44,5 +49,7 @@ _dnd5e-feats_ is © 2018 Mario Panighetti. Licensed under [CC BY-NC-SA 4.0](http
 Certain materials are included under fair use exemption of the U.S. Copyright Law and are restricted from further use. These materials, including references to game mechanics, are not approved or endorsed by Wizards of the Coast and do not constitute any license or agreement with Wizards of the Coast.
 
 ## Third-Party Content References
+
+_Dungeon Master's Guide_ © 2014 Wizards of the Coast LLC.
 
 _[Systems Reference Document 5.1](https://dnd.wizards.com/resources/systems-reference-document)_ ("SRD 5.1") © 2016 Wizards of the Coast LLC. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
