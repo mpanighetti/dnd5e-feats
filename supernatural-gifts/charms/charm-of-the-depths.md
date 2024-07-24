@@ -1,5 +1,7 @@
 # Charm of the Depths
 
+_Supernatural Gift (Charm)_
+
 Rows of gashes appear on the sides of your neck forming fishlike gills, and the skin between your fingers and toes (or equivalent digits) grows into webbing. These changes grant you the following traits:
 
 - You gain a swimming speed equal to your walking speed.

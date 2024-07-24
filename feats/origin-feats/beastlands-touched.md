@@ -1,6 +1,6 @@
 # Beastlands Touched
 
-_1st-Level Background Feat_
+_1st-Level Origin Feat_
 
 - **Prerequisite:** None
 - **Repeatable:** No

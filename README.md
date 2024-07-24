@@ -1,22 +1,22 @@
 # dnd5e-feats
 
- A collection of 5e homebrew feats and supernatural gifts.
+This is a collection of homebrew feats and supernatural gifts for Dungeons & Dragons 5th Edition.
 
 ## Resources
 
-If a resource was written for another 5e homebrew document, it will include a link to the source at the bottom of its page.
+If a resource was written for another homebrew document, it will include a link to the source at the bottom of its page.
 
 ### Feats
 
-Feats are arranged by level prerequisite (listed separately from other prerequisites).
+Feats are arranged by level prerequisite (listed separately from other prerequisites) and grouped by category.
 
 | Level | Feat | Category | Prerequisite | Repeatable | Source |
-|:-:|:-|:-|:-|:-|:-|
-| 1st | [Beastlands Touched](feats/beastlands-touched.md) | Background | | no | |
-| 1st | [Rhythmancy Initiate](feats/rhythmancy-initiate.md) | Background | | no | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
-| 4th | [Rhythmancy Adept](feats/rhythmancy-adept.md) | General | Rhythmancy Initiate feat | no | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
+|:-:|:-|:-|:-|:-:|:-|
+| 1st | [Beastlands Touched](feats/origin-feats/beastlands-touched.md) | Origin | | no | |
+| 1st | [Rhythmancy Initiate](feats/origin-feats/rhythmancy-initiate.md) | Origin | | no | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
+| 4th | [Rhythmancy Adept](feats/general-feats/rhythmancy-adept.md) | General | Rhythmancy Initiate feat | no | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 
-### Supernatural gifts
+### Supernatural Gifts
 
 #### Blessings
 

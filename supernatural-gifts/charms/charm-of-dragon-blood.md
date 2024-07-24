@@ -1,5 +1,7 @@
 # Charm of Dragon Blood
 
+_Supernatural Gift (Charm)_
+
 The evil dragon god Tiamat has granted you a boon, channeling her divine energy directly into your bloodstream. Your veins pulse with a faint orange glow of infernal fire, and you are now considered to have dragon blood, granting you draconic ancestry for the purpose of any effect which requires this trait (if you did not already have draconic ancestry).
 
 Additionally, you can temporarily anoint a vehicle's weapon or movement component with fresh blood shed from a creature with dragon blood, including but not limited to: dragons, kobolds, and any creature with draconic ancestry (including yourself). To anoint a vehicle component, as an action, either you or a creature targeting you must spill the dragon blood on the component by making a weapon attack that deals slashing damage against an eligible creature. This attack automatically hits willing creatures.
