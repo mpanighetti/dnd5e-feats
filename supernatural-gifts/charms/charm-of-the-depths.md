@@ -6,7 +6,7 @@ Rows of gashes appear on the sides of your neck forming fishlike gills, and the 
 
 - You gain a swimming speed equal to your walking speed.
 - You gain the ability to breathe water through your gills.
-- While you are submerged completely underwater, you have darkvision out to a range of 60 feet.
+- While you are submerged completely underwater, you have Darkvision out to a range of 60 feet.
 
 This charm vanishes from you when you die.
 
