@@ -1,16 +1,16 @@
 # Rhythmancy Initiate
 
-_1st-level Origin Feat_
+_Origin Feat_
 
-- **Prerequisite:** None
-- **Repeatable:** No
+You've begun studying the magic of rhythmantic songs. You gain the following benefits.
 
-You've begun studying the magic of rhythmantic songs, granting you the following features:
+_**One Rhythmancy Point.**_ You gain 1 Rhythmancy Point to spend on casting Rhythmancy spells.
 
-- You gain 1 Rhythmancy Point to spend on casting Rhythmancy spells.
-- You learn a Rhythmancy cantrip and a 1st-level Rhythmancy spell of your choice.
-- You gain Proficiency in a skill of your choice from the following list: Deception, Intimidation, Performance, Persuasion.
-- You gain Proficiency with a musical instrument of your choice. You can use such an instrument as a spellcasting focus for any spell you cast using Rhythmancy Points.
+_**One Cantrip.**_ You learn one Rhythmancy cantrip of your choice.
+
+_**Level 1 Spell.**_ Choose a level 1 Rhythmancy spell. You always have that spell prepared. You can cast it using Rhythmancy Points or any spell slots you have.
+
+_**Instrument Training.**_ You gain proficiency with a Musical Instrument of your choice. You can use such an instrument as a spellcasting focus for any spell you cast using Rhythmancy Points.
 
 ---
 

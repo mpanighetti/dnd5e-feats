@@ -8,13 +8,13 @@ If a resource was written for another homebrew document, it will include a link 
 
 ### Feats
 
-Feats are arranged by level prerequisite (listed separately from other prerequisites) and grouped by category.
+Feats are grouped by category.
 
-| Level | Feat | Category | Prerequisite | Repeatable | Source |
-|:-:|:-|:-|:-|:-:|:-|
-| 1st | [Beastlands Touched](feats/origin-feats/beastlands-touched.md) | Origin | | no | |
-| 1st | [Rhythmancy Initiate](feats/origin-feats/rhythmancy-initiate.md) | Origin | | no | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
-| 4th | [Rhythmancy Adept](feats/general-feats/rhythmancy-adept.md) | General | Rhythmancy Initiate feat | no | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
+| Feat | Category | Source |
+|:-|:-|:-|
+| [Beastlands Touched](feats/origin-feats/beastlands-touched.md) | Origin | |
+| [Rhythmancy Initiate](feats/origin-feats/rhythmancy-initiate.md) | Origin | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
+| [Rhythmancy Adept](feats/general-feats/rhythmancy-adept.md) | General | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 
 ### Supernatural Gifts
 
